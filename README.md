@@ -14,7 +14,7 @@ Objetivo
 A disciplina se propõe a apresentar uma introdução ao desenvolvimento de algoritmos e de programas (em linguagem C++) para a solução de problemas computacionais. Ao final do curso, espera-se que o aluno seja capaz de:
 
 -	Entender os princípios básicos da programação de computadores;
--		Compreender e desenvolver algoritmos elementares;
+-	Compreender e desenvolver algoritmos elementares;
 -	Ler, escrever e entender códigos computacionais escritos em linguagem de alto nível;
 -	Entender as estruturas básicas de programação (abstração de dados, operações, subprogramas e modularização, endereçamento de memória);
 - Desenvolver e implementar, em linguagem C++, programas de pequeno e médio porte.
