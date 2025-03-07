@@ -1,6 +1,8 @@
 
-Curso:	Engenharia de Redes	Professor:	Cláudia J. Barenco Abbas
-Campus:	Darcy Ribeiro	Inicial:	23/03/2025
+Curso:	Engenharia de Redes	
+Professor:	Cláudia J. Barenco Abbas
+Campus:	Darcy Ribeiro	
+Data Inicial:	23/03/2025 - 1o Semestre 2025
 
 Computação para engenharia	- ENE 169676
 
