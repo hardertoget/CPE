@@ -14,7 +14,7 @@ A disciplina trata dos princípios dos paradigmas de programação funcional e o
 - Coleções de dados homogêneos (arranjos) e heterogêneos (struct)
 - Operações de entrada e saída
 - Ponteiros
-- Implementação de programas em C++
+- Implementação de programas em C e C++
 
 ## Objetivo
 Ao final da disciplina, espera-se que o aluno seja capaz de:
