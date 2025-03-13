@@ -22,4 +22,4 @@ Ao final da disciplina, espera-se que o aluno seja capaz de:
 - Compreender e desenvolver algoritmos elementares
 - Ler, escrever e entender códigos em linguagem de alto nível
 - Entender estruturas básicas de programação
-- Implementar programas em C++
+- Implementar programas em C e C++
